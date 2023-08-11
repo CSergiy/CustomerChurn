@@ -39,5 +39,9 @@ Going forward, this model could be refined with more data and explore the impact
 
 Detailed code and analysis are available in the Customer_Churn.ipynb notebook. Please refer to it for a comprehensive walkthrough of the project.
 
+## Future Steps
+
+Add executive report that allows more digestible way of getting key insights.
+
 ## Contact
 For any queries, please feel free to reach out to me at sergiy12422@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sergiy-chepiga/).
